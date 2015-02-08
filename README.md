@@ -3,6 +3,10 @@ Drupal-ViewerJs
 
 Drupal module that allow the display of file/image fields with Viewerjs.org
 
+NOW THERE IS A OFFICIAL DRUPAL MODULE
+-------------------------------------
+https://www.drupal.org/project/viewerjs
+
 INSTALLATION
 ------------
 1. Rename the module folder to viewerjs 
